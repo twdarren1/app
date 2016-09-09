@@ -65,7 +65,7 @@
         android:layout_height="match_parent"
         android:layout_below="@+id/up01"
         android:layout_above="@id/notup"
-        android:background="#ff0"
+        android:background="#fff"
         />
 
 
